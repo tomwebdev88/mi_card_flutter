@@ -1,6 +1,6 @@
 # mi_card_flutter
 
-A new Flutter project.
+How to build beautiful UI's with Flutter Widgets: Card, ListTile.
 
 ## Getting Started
 
